@@ -1,4 +1,2 @@
 
-const Scooter = {year
-  
-}
+const Scooter = {year, color, model}
